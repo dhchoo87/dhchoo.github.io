@@ -1,0 +1,37 @@
+---
+title: "CV"
+output: html_document
+---
+
+<a href="CV.pdf#" class="download" title="Download CV as PDF"> <font size="5">Download full CV (pdf) here</font> </a>			
+
+<br />
+<br />
+
+---
+
+### **Education**
+- <font size="5"> Ph.D. in Economics, Texas A&M University, 2022 </font> <br />
+- <font size="5"> M.A. in Economics, Korea University, 2015 </font> <br />
+- <font size="5"> B.A. in Mathematics & Economics, Korea University, 2013 </font> 
+
+---
+
+### **Research Fields**
+- <font size="5">  Macroeconomics, Monetary Economics, Financial Economics, Housing Prices </font> <br />
+- <font size="5">  Text Sentiment Analysis, Machine Learning (Classic and Deep Learning) </font>
+
+---
+
+### **Other Work Experience**
+- <font size="5"> Research Associate, Department of financial policy, Korea Development Institute (KDI), Sejong, South Korea, 2015-2017 </font> <br />
+
+---
+
+### **Languages**
+- <font size="5"> English, Korean (Mandarin)</font>
+
+---
+
+### **Computer Skills**
+- <font size="5"> Stata, Matlab, R, Bash (Unix Shell) </font>

@@ -1,0 +1,38 @@
+---
+title: "Dongho Choo"
+subtitle: "Ph.D. in Economics (Texas A&M University at College Station)"
+output:
+  html_document:
+    runtime: shiny
+---
+
+<br />
+<br />
+
+---
+
+## **Hello and Welcome to my website!**
+
+<font size="5"> I am an Economics Ph.D candidate at Texas A&M University. My research interests are in the field of macroeconomics. In particular, my work focuses on the topics of monetary policy, financial variables, and housing market. I am currently on the job market and will attend the 2021 AEA annual meetings in January at Boston (probably) </font>
+
+---
+
+<br />
+<br />
+
+<img src="images/dhchoo.jpg" style = "width:30%; margin-right: 20px" align = "left">
+
+
+### **Office**
+<font size="4">LASB 245, Department of Economics <br />
+Texas A&M University <br />
+2935 Research Parkway Suite 200 <br />
+College Station, TX 77843
+</font>
+
+---
+
+### **E-mail**
+<font size="4">[dhchoo87@tamu.edu](mailto: dhchoo87@tamu.edu)</font>
+
+
