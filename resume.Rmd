@@ -18,8 +18,7 @@ output: html_document
 ---
 
 ### **Research Fields**
-- <font size="5">  Macroeconomics, Monetary Economics, Financial Economics, Housing Prices </font> <br />
-- <font size="5">  Text Sentiment Analysis, Machine Learning (Classic and Deep Learning) </font>
+- <font size="5">  Macroeconomics, Monetary Economics, Financial Economics, Housing Prices </font>
 
 ---
 
@@ -34,4 +33,4 @@ output: html_document
 ---
 
 ### **Computer Skills**
-- <font size="5"> Stata, Matlab, R, Bash (Unix Shell) </font>
+- <font size="5"> Stata, Matlab, R </font>

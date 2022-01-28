@@ -13,7 +13,7 @@ output:
 
 ## **Hello and Welcome to my website!**
 
-<font size="5"> I am an Economics Ph.D candidate at Texas A&M University. My research interests are in the field of macroeconomics. In particular, my work focuses on the topics of monetary policy, financial variables, and housing market. I am currently on the job market and will attend the 2021 AEA annual meetings in January at Boston (probably) </font>
+<font size="5"> I am an Economics Ph.D candidate at Texas A&M University. My research interests are in the field of macroeconomics. In particular, my work focuses on the topics of monetary policy, financial variables, and housing market. </font>
 
 ---
 

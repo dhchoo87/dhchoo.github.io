@@ -5,10 +5,25 @@ output: html_document
 
 ## {.tabset}
 
-### Publication
-
 ### Working Papers
 
-- <font size="4"> Dongho Choo. [2021]  The Transmission Mechanism of Monetary Policy: Based on Credit Spreads and House prices </font> <br />
-- <font size="4"> Dongho Choo. [2020]  Asymmetrical role of monetary policy shocks on house prices in the U.S. </font> <br />
-- <font size="4"> Dongho Choo. [2019]  Cross-State heterogeneith in the house price fluctuations and the role of monetary policy </font> <br />
+- <a href="JMP.pdf#" class="download" title="Download JMP as PDF"> <font size="4"> The Transmission Mechanism of Monetary Policy: Based on Credit Spreads and House prices </font> </a> <br />
+
+<font size="4"> **Abstract**: Commonly used instruments for the identification of monetary policy shocks are likely to combine the true policy shock with information about the monetary authority’s feedback rule. I show that this endogenous effects of monetary policy can give rise to the empirical puzzles reported in the literature and propose a new approach to estimating central bank preferences that account for credit spreads and house prices. To investigate whether the Federal Reserve has responded systematically to credits spreads and house prices, I use a text analysis to directly measure the FOMCs objective from counting the word expressed by policy makers in their internal meetings. Next, I re-construct the Romer and Romer (2004) narrative shocks with two changes to their estimation framework and use the Local Projection estimation to trace the effects of shocks that control the endogenous response of monetary policy to credits spreads and house prices. I find that during the Great Moderation period, a monetary tightening is unequivocally contractionary, with persistent deterioration of domestic demand, labor and credit market conditions, as well as of house prices. Central to this result is that the failure to account for these endogenous reactions induce a confounding in the response of all real variables to monetary policy shocks. This indicates a systematic component of monetary policy characterized by a direct and economically significant reaction to changes in house prices and corporate credit spreads. </font> <br />
+
+### Works in Pregress
+
+- <font size="4"> Cross-State heterogeneity in the house price fluctuations and the role of monetary policy </font> <br />
+
+<font size="4"> **Abstract**: The main point of this paper reveals whether the heterogeneous variation in house prices across the different regions in the U.S. reflects a national phenomenon or rather an area-specific housing market until the recent period. To show the heterogeneous responses of house prices, I differentiate the growth in house prices that are common across all states from those that are regional or state-specific through the multi-level dynamic factor model. In the next step, this paper studies what extent to which monetary policy can explain the variation in common factor of house prices over the period including the pandemic era. With the obtained national factor, I measure the role of monetary policy accounting for the variation in house prices using the FAVAR estimation. Based on the statistical results, I argue that regional components are behind most of the volatility for the earlier period (1984 -2000). Then the national factor accounts for a sizable portion of the variation in house prices for the following period (2001-2012), but this ratio had been moderately decreased over the five years, from 2013 to 2018. A year and a half since the onset of the COVID-19 pandemic, this pattern has been rebounded. House prices have risen at record levels in recent years, hitting the peak increase, which could be largely explained by the national phenomenon rather than area-specific factors.
+ </font> <br /> <br /> <br />
+
+- <font size="4"> Asymmetrical role of monetary policy shocks on house prices in the U.S. </font> <br />
+
+<font size="4"> **Abstract**: Most of the conventional literature studying housing market and monetary policy have primarily focused on the linear responsiveness of house prices to monetary policy shocks. However, several evidences suggested that the responses depend on the nature of the policy shock - contractionary versus expansionary - and on the state of economy - boom versus recession. In this paper I fill this gap and use a Local-Projection method to estimate asymmetric effects of monetary policy in the U.S. housing markets based on the two framework, state-dependent and policy-dependent models. Contractionary monetary policy shocks have a significantly stronger effect on house prices than expansionary shocks. Depreciation in house prices as a contractionary monetary policy shock occurs is more robust and clearly seen in the high-unemployment state that in the low-unemployment-state.
+ </font> <br /> <br /> <br />
+ 
+- <font size="4"> Necessity of managing Non-Core liabilities: Evidence from commercial banks in South Korea </font> <br />
+
+<font size="4"> **Abstract**: In this paper, I construct panel data using the balance sheets of 15 domestic banks and find out how the proportion of non-core liabilities over the bank assets can have an impact on the default risk in each bank. According to the panel analysis, the default risk increases as banks use non-core liabilities for their primary financing purposes. The non-core liabilities have been widely used as the main financing method for banks when the economy is in a boom state. However, once a shock happens to the economy, especially in the financial market, refinancing to maturity would be limited, which can lead to serious liquidity risk and a credit crunch.
+ </font> <br />
