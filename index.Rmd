@@ -12,8 +12,12 @@ output:
 ---
 
 ## **Hello and Welcome to my website!**
-
-<font size="5"> I am an Economics Ph.D candidate at Texas A&M University. My research interests are in the field of macroeconomics. In particular, my work focuses on the topics of monetary policy, financial variables, and housing market. </font>
+<br />
+<br />
+<font size="5"> I am an Economics Ph.D candidate at Texas A&M University. I am on the Job Market for the 2022-2023 academic year. 
+<br />
+<br />
+My research interests are in the field of macroeconomics. In particular, my work focuses on the topics of monetary policy, financial variables, and the housing market. </font>
 
 ---
 
@@ -24,7 +28,7 @@ output:
 
 
 ### **Office**
-<font size="4">LASB 245, Department of Economics <br />
+<font size="4">LASB 237, Department of Economics <br />
 Texas A&M University <br />
 2935 Research Parkway Suite 200 <br />
 College Station, TX 77843
@@ -33,6 +37,6 @@ College Station, TX 77843
 ---
 
 ### **E-mail**
-<font size="4">[dhchoo87@tamu.edu](mailto: dhchoo87@tamu.edu)</font>
+<font size="4">[dhchoo87[at]tamu[dot]edu](mailto:dhchoo87@tamu.edu)</font>
 
 
