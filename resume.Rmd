@@ -11,14 +11,14 @@ output: html_document
 ---
 
 ### **Education**
-- <font size="5"> Ph.D. in Economics, Texas A&M University, 2023 </font> <br />
+- <font size="5"> Ph.D. in Economics, Texas A&M University, 2023 (expected) </font> <br />
 - <font size="5"> M.A. in Economics, Korea University, 2015 </font> <br />
 - <font size="5"> B.A. in Mathematics & Economics, Korea University, 2013 </font> 
 
 ---
 
 ### **Research Fields**
-- <font size="5">  Macroeconomics, Monetary Economics, Financial Economics, Housing Prices </font>
+- <font size="5">  Macroeconomics, Monetary Economics, Financial Economics, Housing markets </font>
 
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: "Dongho Choo"
-subtitle: "Ph.D. in Economics (Texas A&M University at College Station)"
+title: "**Dongho Choo**"
 output:
   html_document:
     runtime: shiny
@@ -11,32 +10,26 @@ output:
 
 ---
 
-## **Hello and Welcome to my website!**
-<br />
-<br />
-<font size="5"> I am an Economics Ph.D candidate at Texas A&M University. I am on the Job Market for the 2022-2023 academic year. 
-<br />
-<br />
-My research interests are in the field of macroeconomics. In particular, my work focuses on the topics of monetary policy, financial variables, and the housing market. </font>
-
----
-
-<br />
-<br />
-
 <img src="images/dhchoo.jpg" style = "width:30%; margin-right: 20px" align = "left">
 
-
-### **Office**
-<font size="4">LASB 237, Department of Economics <br />
-Texas A&M University <br />
-2935 Research Parkway Suite 200 <br />
-College Station, TX 77843
-</font>
+## **Hello and welcome to my website!**
+<br />
+<font size="5"> I am an Economics Ph.D. candidate at Texas A&M University. I am on the Job Market for the 2022-2023 academic year. My research interests lie in the areas of Macroeconomics, Monetary Economics, and Financial Economics. In particular, I have been working on several interrelated lines of research, which mainly focus on 1) Identification and the transmission mechanism of monetary policy, 2) The relation between housing markets and monetary policies, and 3) Regional heterogeneity in house price dynamics. </font>
 
 ---
 
-### **E-mail**
+### **Contact Information**
+<br />
+
+#### Mailing address
+
+
+<font size="4">LASB 237, Department of Economics, Texas A&M University, 2935 Research Parkway Suite 200, College Station, TX 77843
+</font>
+
+<br />
+
+#### E-mail address
 <font size="4">[dhchoo87[at]tamu[dot]edu](mailto:dhchoo87@tamu.edu)</font>
 
 

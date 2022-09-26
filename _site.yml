@@ -16,16 +16,6 @@ navbar:
       icon: fa-file-pdf-o
       href: resume.html
   
-  right:      
-    - text: "Contact"
-      menu:
-      - text: "Email"
-        icon: fa-envelope
-        href: "mailto: dhchoo87@tamu.edu"
-      - text: "Github"
-        icon: fa-github # fa-at
-        href: "https://github.com/dhchoo87"
-      
 output:
   html_document:
     theme: cosmo
