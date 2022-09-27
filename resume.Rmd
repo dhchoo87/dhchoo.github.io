@@ -33,4 +33,4 @@ output: html_document
 ---
 
 ### **Computer Skills**
-- <font size="5"> Stata, Matlab, R </font>
+- <font size="5"> Stata, Matlab, R, LaTeX </font>
