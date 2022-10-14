@@ -23,7 +23,7 @@ output: html_document
 ---
 
 ### **Other Work Experience**
-- <font size="5"> Research Associate, Department of financial policy, Korea Development Institute (KDI), Sejong, South Korea, 2015-2017 </font> <br />
+- <font size="5"> Research Associate, Department of Financial Policy, Korea Development Institute (KDI), Sejong, South Korea, 2015-2017 </font> <br />
 
 ---
 
