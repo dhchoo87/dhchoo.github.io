@@ -9,7 +9,7 @@ output:
 
 ---
 
-<img src="images/dhchoo.jpg" style = "width:30%; margin-right: 20px" align = "left">
+<img src="images/dhchoo.jpeg" style = "width:30%; margin-right: 20px" align = "left">
 
 ## **Hello and welcome to my website!**
 <br />
