@@ -15,13 +15,14 @@ output:
 <br />
 <font size="4.5"> I am an Economics Ph.D. candidate at Texas A&M University. I am on the Job Market for the 2022-2023 academic year. 
 
+<br />
+
 My research interests lie in the areas of Macroeconomics, Monetary Economics, and Financial Economics. 
+
+<br />
 
 In particular, I have been working on several interrelated lines of research, which mainly focus on 1) Identification and the transmission mechanism of monetary policy, 2) The relation between housing markets and monetary policies, and 3) Regional heterogeneity in house price dynamics. </font>
 
-<br />
-<br />
-<br />
 <br />
 
 ---
