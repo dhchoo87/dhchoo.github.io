@@ -3,34 +3,53 @@ title: "CV"
 output: html_document
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF"> <font size="5">Download full CV (pdf) here</font> </a>			
+<a href="CV.pdf#" class="download" title="Download CV as PDF"> <font size="4">Download full C.V. (pdf) here</font> </a>			
 
-<br />
 <br />
 
 ---
 
 ### **Education**
-- <font size="5"> Ph.D. in Economics, Texas A&M University, 2023 (expected) </font> <br />
-- <font size="5"> M.A. in Economics, Korea University, 2015 </font> <br />
-- <font size="5"> B.A. in Mathematics & Economics, Korea University, 2013 </font> 
+- <font size="4"> Ph.D. in Economics, Texas A&M University, 2023 (expected) </font> <br />
+- <font size="4"> M.A. in Economics, Korea University, 2015 </font> <br />
+- <font size="4"> B.A. in Mathematics & Economics, Korea University, 2013 </font> 
 
 ---
 
 ### **Research Fields**
-- <font size="5">  Macroeconomics, Monetary Economics, Financial Economics, Housing markets </font>
+- <font size="4">  Macroeconomics, Monetary Economics, Financial Economics, Housing markets </font>
+- <a href="Research_Statement.pdf#" class="download" title="Download Research Statement as PDF"> <font size="4">Download full Research Statement (pdf)</font> </a>
 
 ---
 
-### **Other Work Experience**
-- <font size="5"> Research Associate, Department of Financial Policy, Korea Development Institute (KDI), Sejong, South Korea, 2015-2017 </font> <br />
+### **Teaching Experience**
+- <font size="4"> Instructor </font> 
+    - <font size="4"> ECON 203 Principles of Macroeconomics (Summer 2022) </font> 
+    - <font size="4"> ECON 203 Principles of Macroeconomics (Summer 2021) </font> 
+
+- <font size="4"> Teaching Assistant </font> 
+    - <font size="4"> ECON 311 Money and Banking (Fall 2022)  </font> 
+    - <font size="4"> ECON 459 Games & Econ Behavior (Fall 2022)  </font> 
+    - <font size="4"> ECMT 674 Economic Forecasting (Spring 2022)  </font> 
+    - <font size="4"> ECMT 475 Economic Forecasting (Fall 2021)  </font> 
+    - <font size="4"> ECON 410 Intermediate Macroeconomics (Spring 2021, 2020)  </font> 
+    - <font size="4"> ECMT 461 Introduction to Economic Data Analysis (Fall 2020)  </font> 
+    - <font size="4"> ECON 636 Macroeconomic Theory 1 (Fall 2019)  </font> 
+    - <font size="4"> ECMT 463 Introduction to Econometrics (Spring 2019, Fall 2018)  </font> 
+
+- <a href="Teaching_Statement.pdf#" class="download" title="Download Teaching Statement as PDF"> <font size="4">Download full Teaching Statement and Evaluations (pdf)</font> </a>
+
+---
+
+### **Work Experience**
+- <font size="4"> Research Associate, Department of Financial Policy, Korea Development Institute (KDI), <br>Sejong, South Korea, 2015-2017 </font> <br />
 
 ---
 
 ### **Languages**
-- <font size="5"> English, Korean </font>
+- <font size="4"> English, Korean </font>
 
 ---
 
 ### **Computer Skills**
-- <font size="5"> Stata, Matlab, R, LaTeX </font>
+- <font size="4"> Stata, Matlab, R, LaTeX </font>
