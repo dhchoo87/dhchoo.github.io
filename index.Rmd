@@ -6,39 +6,31 @@ output:
 ---
 
 <br />
+<br />
 
 ---
 
 <img src="images/dhchoo.jpeg" style = "width:30%; margin-right: 20px" align = "left">
 
-## **Hello and welcome to my website!**
-<br />
-<font size="4.5"> I am an Economics Ph.D. candidate at Texas A&M University. I am on the Job Market for the 2022-2023 academic year. 
-
-<br />
-
-I am an applied macroeconomist with particular interests in Monetary and Financial Economics.
-
+<font size="4.5"> 
+**Economist** <br />
+Macroeconomic Modeling Team <br />
+Research Department <br />
+[The Bank of Korea](https://www.bok.or.kr/eng/main/main.do) <br />
 <br />
 
-I have been working on several interrelated projects, focusing on <br>1) the identification and the transmission mechanism of monetary policy shocks; <br>2) the relationship between house prices and monetary policy; and <br>3) regional heterogeneity in real house price dynamics. </font>
-
+**Fields of Specialization** <br />
+Applied Macroeconomics, Monetary and Financial Economics,  <br />
+Economic Forecasting, Housing Market <br />
 <br />
+
+**Contact Information** <br />
+Email: [dhchoo[at]bok[dot]or[dot]kr](mailto:dhchoo@bok.or.kr) <br />
+Phone: +82-2-759-4251 <br />
+Mailing address: The Bank of Korea, Annex (8F), 39 Namdaemun-ro, Jung-Gu, Seoul, 04531, Korea
+</font>
 
 ---
 
-### **Contact Information**
-<br />
-
-#### Mailing address
-
-
-<font size="4">LASB 237, Department of Economics, Texas A&M University, 2935 Research Parkway Suite 200, College Station, TX 77843
-</font>
-
-<br />
-
-#### E-mail address
-<font size="4">[dhchoo87[at]tamu[dot]edu](mailto:dhchoo87@tamu.edu)</font>
 
 
